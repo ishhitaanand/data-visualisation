@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Visualisation</title>
+    <body>
+    <div class="div">
+    <div class="div-2">
+      <div class="div-3">
+        <div class="div-4">
+          Arpan
+          <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
+            2K21/BD/027
+          </span>
+        </div>
+        <div class="div-5">
+          Atharv
+          <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
+            2K21/BD/032
+          </span>
+        </div>
+        <div class="div-6">
+          Bhavesh
+          <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
+            2K21/BD/036
+          </span>
+        </div>
+        <div class="div-7">
+          Ishita
+          <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
+            2K21/BD/042
+          </span>
+        </div>
+        <div class="div-8">
+          Vikramaditya
+          <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
+            2K21/BD/115
+          </span>
+ </div>
+      </div>
+      <div class="div-9">Data Visualisation</div>
+      <div class="div-10">Project research, visualisation & final code</div>
+      <div class="div-11"></div>
+      <div class="div-12">
+        <div class="div-13">Section A & B</div>
+        <div class="div-14">DD324 | Data Visualisation</div>
+      </div>
+      <div class="div-15">introduction</div>
+      <div class="div-16">
+        Understanding the impact of college events & activities on students' sleep
+        patterns is crucial for promoting their overall well-being & academic
+        success.
+        <br />
+        <br />
+        This project aims to visually analyse trends in sleep schedules among
+        students in relation to various college events, such as exams, festivals,
+        & academic deadlines. By collecting & analysing data on sleep duration,
+        quality, and related factors during different periods, we aim to identify
+        patterns and correlations that can inform strategies for optimising
+        students' sleep habits.
+      </div>
+    </div>
+    <div class="div-17">
+      <div class="div-18">graphs</div>
+      <div class="div-19">Data visualisation on sleep patterns</div>
+      <div class="div-20">
+        <div class="div-21">
+          <div class="column">
+            <img src="https://raw.githubusercontent.com/ishhitaanand/data-visualisation/main/1.jpg">
+          </div>
+          <div class="column-2">
+           <img src="C:\Users\arpan\Downloads\data viz\2.png">
+          </div>
+        </div>
+      </div>
+      <div class="div-22">
+        <div class="div-23">
+          <div class="column">
+           <img src="C:\Users\arpan\Downloads\data viz\3.png">
+          </div>
+          <div class="column-3">
+           <img src="C:\Users\arpan\Downloads\data viz\4.png">
+          </div>
+        </div>
+      </div>
+      <div class="div-24">
+        <div class="div-25">
+          <div class="column">
+            <img src="C:\Users\arpan\Downloads\data viz\5.png">
+          </div>
+          <div class="column-4">
+           <img src="C:\Users\arpan\Downloads\data viz\6.png">
+          </div>
+        </div>
+      </div>
+      <div class="div-26">
+        &quot;Sleep is the best meditation.&quot; - Dalai Lama 😴
+      </div>
+
+    </div>
+  </div>
+  <style>
+    .div {
+      background-color: #ffffff;
+      display: flex;
+      padding-top: 70px;
+      flex-direction: column;
+    }
+    .div-2 {
+      display: flex;
+      width: 100%;
+      flex-direction: column;
+      padding: 0 72px;
+    }
+    @media (max-width: 991px) {
+      .div-2 {
+        max-width: 100%;
+        padding: 0 20px;
+      }
+    }
+    .div-3 {
+      display: flex;
+      gap: 20px;
+      font-size: 24px;
+      color: rgba(98, 135, 169, 0.8);
+      font-weight: 500;
+      text-align: center;
+    }
+    @media (max-width: 991px) {
+      .div-3 {
+        max-width: 100%;
+        flex-wrap: wrap;
+      }
+    }
+    .div-4 {
+      font-family: Poligon, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-5 {
+      font-family: Poligon, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-6 {
+      font-family: Poligon, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-7 {
+      font-family: Poligon, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-8 {
+      font-family: Poligon, sans-serif;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-9 {
+      color: rgba(27, 80, 130, 0.67);
+      align-self: start;
+      margin: 295px 0 0 10px;
+      font: 600 155px/85% Poligon, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-9 {
+        max-width: 100%;
+        margin-top: 40px;
+        font-size: 40px;
+      }
+    }
+    .div-10 {
+      color: rgba(27, 80, 130, 0.67);
+      text-transform: capitalize;
+      align-self: start;
+      margin: 55px 0 0 10px;
+      font: 700 35px Amazon Ember Mono, -apple-system, Roboto, Helvetica,
+        sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-10 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-11 {
+      border-color: rgba(98, 135, 169, 0.4);
+      border-style: solid;
+      border-width: 2px;
+      background-color: rgba(98, 135, 169, 0.4);
+      width: 1348px;
+      max-width: 100%;
+      height: 2px;
+      margin: 47px 10px 0;
+    }
+    @media (max-width: 991px) {
+      .div-11 {
+        margin-top: 40px;
+      }
+    }
+    .div-12 {
+      display: flex;
+      gap: 20px;
+      font-size: 32px;
+      margin: 27px 10px 0;
+    }
+    @media (max-width: 991px) {
+      .div-12 {
+        max-width: 100%;
+        flex-wrap: wrap;
+      }
+    }
+    .div-13 {
+      color: rgba(27, 80, 130, 0.67);
+      font-family: Poligon, sans-serif;
+      font-weight: 700;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-14 {
+      color: #6287a9;
+      text-align: right;
+      font-family: Poligon, sans-serif;
+      font-weight: 500;
+      flex-grow: 1;
+      flex-basis: auto;
+    }
+    .div-15 {
+      color: rgba(27, 80, 130, 0.67);
+      align-self: start;
+      margin: 150px 0 0 25px;
+      font: 600 100px/129% Poligon, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-15 {
+        max-width: 100%;
+        margin-top: 40px;
+        font-size: 40px;
+      }
+    }
+    .div-16 {
+      color: rgba(98, 135, 169, 0.8);
+      align-self: center;
+      margin-top: 69px;
+      font: 400 32px Amazon Ember Mono, -apple-system, Roboto, Helvetica,
+        sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-16 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-17 {
+      background-color: #668aab;
+      display: flex;
+      margin-top: 115px;
+      width: 100%;
+      flex-direction: column;
+      padding: 51px 80px 80px;
+    }
+    @media (max-width: 991px) {
+      .div-17 {
+        max-width: 100%;
+        margin-top: 40px;
+        padding: 0 20px;
+      }
+    }
+    .div-18 {
+      color: #fff;
+      margin: 0 10px;
+      font: 600 100px/129% Poligon, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-18 {
+        max-width: 100%;
+        font-size: 40px;
+      }
+    }
+    .div-19 {
+      color: #fafafa;
+      margin: 25px 10px 0;
+      font: 700 32px Amazon Ember Mono, -apple-system, Roboto, Helvetica,
+        sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-19 {
+        max-width: 100%;
+      }
+    }
+    .div-20 {
+      margin: 123px 10px 0;
+    }
+    @media (max-width: 991px) {
+      .div-20 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-21 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-21 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 50%;
+      margin-left: 0px;
+    }
+    @media (max-width: 991px) {
+      .column {
+        width: 100%;
+      }
+    }
+    .img {
+      aspect-ratio: 0.7;
+      object-fit: auto;
+      object-position: center;
+      width: 100%;
+      flex-grow: 1;
+    }
+    @media (max-width: 991px) {
+      .img {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .column-2 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 50%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-2 {
+        width: 100%;
+      }
+    }
+    .div-22 {
+      margin: 98px 10px 0;
+    }
+    @media (max-width: 991px) {
+      .div-22 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-23 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-23 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column-3 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 50%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-3 {
+        width: 100%;
+      }
+    }
+    .div-24 {
+      margin: 98px 10px 0;
+    }
+    @media (max-width: 991px) {
+      .div-24 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .div-25 {
+      gap: 20px;
+      display: flex;
+    }
+    @media (max-width: 991px) {
+      .div-25 {
+        flex-direction: column;
+        align-items: stretch;
+        gap: 0px;
+      }
+    }
+    .column-4 {
+      display: flex;
+      flex-direction: column;
+      line-height: normal;
+      width: 50%;
+      margin-left: 20px;
+    }
+    @media (max-width: 991px) {
+      .column-4 {
+        width: 100%;
+      }
+    }
+    .div-26 {
+      color: #fafafb;
+      text-align: center;
+      align-self: center;
+      margin-top: 127px;
+      font: 700 36px/100% Poligon, sans-serif;
+    }
+    @media (max-width: 991px) {
+      .div-26 {
+        max-width: 100%;
+        margin-top: 40px;
+      }
+    }
+    .img-2 {
+      aspect-ratio: 1;
+      object-fit: auto;
+      object-position: center;
+      width: 54px;
+      align-self: center;
+      margin: 17px 0 5px;
+    }
+  </style>
+
+</body>
+</html>
