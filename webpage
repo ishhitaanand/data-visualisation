@@ -37,7 +37,7 @@
           <span style="font-weight: 300; color: rgba(98, 135, 169, 1)">
             2K21/BD/115
           </span>
- </div>
+        </div>
       </div>
       <div class="div-9">Data Visualisation</div>
       <div class="div-10">Project research, visualisation & final code</div>
@@ -70,7 +70,7 @@
             <img src="https://raw.githubusercontent.com/ishhitaanand/data-visualisation/main/1.jpg">
           </div>
           <div class="column-2">
-           <img src="https://github.com/ishhitaanand/data-visualisation/blob/main/2.jpg?raw=true">
+           <img src="C:https://github.com/ishhitaanand/data-visualisation/blob/main/2.jpg?raw=true">
           </div>
         </div>
       </div>
@@ -80,29 +80,29 @@
            <img src="https://github.com/ishhitaanand/data-visualisation/blob/main/3.jpg?raw=true">
           </div>
           <div class="column-3">
-           <img src="C:\Users\arpan\Downloads\data viz\4.png">
+           <img src="https://github.com/ishhitaanand/data-visualisation/blob/main/4.jpg?raw=true">
           </div>
         </div>
       </div>
       <div class="div-24">
         <div class="div-25">
           <div class="column">
-            <img src="C:\Users\arpan\Downloads\data viz\5.png">
+            <img src="https://github.com/ishhitaanand/data-visualisation/blob/main/5.jpg?raw=true">
           </div>
           <div class="column-4">
-           <img src="C:\Users\arpan\Downloads\data viz\6.png">
+           <img src="https://github.com/ishhitaanand/data-visualisation/blob/main/6.jpg?raw=true">
           </div>
         </div>
       </div>
       <div class="div-26">
         &quot;Sleep is the best meditation.&quot; - Dalai Lama 😴
       </div>
-
+  
     </div>
   </div>
   <style>
     .div {
-      background-color: #ffffff;
+      background-color: #fafafb;
       display: flex;
       padding-top: 70px;
       flex-direction: column;
@@ -433,6 +433,6 @@
       margin: 17px 0 5px;
     }
   </style>
-
+    
 </body>
 </html>
